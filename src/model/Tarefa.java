@@ -1,8 +1,7 @@
 package model;
 
-import java.time.LocalDate;
-
 import enums.Prioridade;
+import java.time.LocalDate;
 
 public class Tarefa {
     private String titulo;
@@ -16,7 +15,7 @@ public class Tarefa {
         this.descricao = descricao;
         this.prioridade = prioridade;
         this.prazo = prazo;
-        this.concluida = false; //Incializa como não concluída
+        this.concluida = false; //Inicializa como não concluída
     }
 
     public String getTitulo() {
