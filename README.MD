@@ -1,6 +1,6 @@
 # Prova Arquiteturas Padrão
 
-Esta prova foi realizada no dia .. pelo docente Matehus Quost sobre Arquiteturas Padrão.
+Esta prova foi realizada no dia 04/08/2025 pelo docente Matehus Quost sobre Arquiteturas Padrão.
 
 # índice 
 
