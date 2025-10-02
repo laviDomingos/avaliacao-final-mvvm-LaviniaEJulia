@@ -22,7 +22,7 @@ Soluções reutilizáveis para problemas comuns em desenvolvimento de software.
 # Qual arquitetura foi escolhida?
 
 A arquitetura escolhida foi a MVVM porque achamos interessante
-o jeito de trabalhar com ela e hoje em dia muitos projetos utilizam esta arquietura. 
+o jeito de trabalhar com ela e hoje em dia muitos projetos utilizam esta arquitetura. 
 
 
 # Quais padrões foram aplicados?
